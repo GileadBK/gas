@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import os
-import statsmodels.api as sm
 
 st.set_page_config(page_title="Gas vs HDD Dashboard", layout="wide")
 
